@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Analytics } from '@vercel/analytics/next';
+import { Analytics } from '@vercel/analytics/react';
 import spinningLogo from './assets/FractoscopicIcon.png'
 import Slider from 'rc-slider'
 import 'rc-slider/assets/index.css'
