@@ -19,7 +19,7 @@ function App() {
           animation: `logo-spin ${value}s linear infinite`,
         }}>
         <a href="https://fractoscopicvisions.com" target="_blank">
-          <img src={spinningLogo} className="logo spin" alt="React logo" />
+          <img src={spinningLogo} className="logo spin" alt="Fractoscopic logo" />
         </a>
       </div>
       <h1>Stare at the spinning thing!</h1>
